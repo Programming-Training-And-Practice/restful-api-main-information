@@ -28,6 +28,45 @@
 
 
 
+## RESTful Web Services:
+* Because of their simplicity and versatility, RESTful web services have become the de facto standard for web services.
+* REST - Representational State Transfer.
+* Representation - Typically JSON or XML.
+* State Transfer - Typically via HTTP.
+* Established by Roy Fielding from his 2000 doctoral dissertation.
+
+
+
+
+
+## RESTful Terminology.
+* Verbs - HTTP Methods: GET, PUT, POST, DELETE
+* Messages - the payload of the action (JSON/XML)
+* URI - Uniform Resource Identifier
+  * A unique string identifying a resource
+* URL - Uniform Resource Locator
+  * A URI with network information - http://www.example.com
+
+
+
+
+
+## RESTful Terminology:
+* Idempotence:
+  * Wikipedia “Idempotence is the property of certain operations in mathematics and computer science that they can be 
+    applied multiple times without changing the result beyond the initial application.”
+  * In other words, you can exercise the operation multiple times, without changing the result.
+  * Example: Refreshing a web page (HTTP GET operation)
+* Stateless - Service does not maintain any client state
+* HATEOAS - Hypermedia As The Engine of application State
+  * Wikipedia - “a REST client should then be able to use server-provided links dynamically to discover all the available 
+    actions and resources it needs. As access proceeds, the server responds with text that includes hyperlinks to other 
+    actions that are currently available.”
+
+
+
+
+
 ## Pros.
 
 
