@@ -7,9 +7,12 @@
 ## Contents at a Glance.
 * [About](#about)
 * [Documentation.](#documentation)
+* [Richardson Maturity Model (RMM).](https://github.com/descriptions-of-it-technologies/richardson-maturity-model-rmm)
+* [RESTful Web Services.](#restful-web-services)
+* [RESTful Terminology.](#restful-terminology)
 * [Pros.](#pros)
 * [Cons.](#cons)
-* []()
+* [Best practices.](#best-practices)
 * [Help](#help)
 
 
@@ -46,12 +49,6 @@
   * A unique string identifying a resource
 * URL - Uniform Resource Locator
   * A URI with network information - http://www.example.com
-
-
-
-
-
-## RESTful Terminology:
 * Idempotence:
   * Wikipedia “Idempotence is the property of certain operations in mathematics and computer science that they can be 
     applied multiple times without changing the result beyond the initial application.”
@@ -85,6 +82,7 @@
 * No secure info in URL.
 * Use plurals in definition of paths.
 * Use nouns for resources.
+
 
 
 
