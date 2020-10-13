@@ -34,9 +34,9 @@
 ## RESTful Web Services:
 * Because of their simplicity and versatility, RESTful web services have become the de facto standard for web services.
 * REST - Representational State Transfer.
-* Representation - Typically JSON or XML.
-* State Transfer - Typically via HTTP.
-* Established by Roy Fielding from his 2000 doctoral dissertation.
+  * Representation - Typically JSON or XML.
+  * State Transfer - Typically via HTTP.
+  * Established by Roy Fielding from his 2000 doctoral dissertation.
 
 
 
